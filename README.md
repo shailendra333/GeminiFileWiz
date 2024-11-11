@@ -99,6 +99,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any inquiries or further information, please contact [Rushikesh Thorat] via email at [pavannetha219@gmail.com].
+For any inquiries or further information, please contact [Pavan Dadvaiah] via email at [pavannetha219@gmail.com].
 
 ---
