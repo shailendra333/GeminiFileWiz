@@ -83,6 +83,11 @@ streamlit run app.py
 ## Authors
 - Dadvaiah Pavan
 
+## Contribution
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
+
+
 
 ## License
 
