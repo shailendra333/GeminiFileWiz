@@ -6,6 +6,6 @@ pandas
 langchain
 langchain-google-genai
 google-generativeai
-langchain-comunity
+langchain-community  # Corrected from langchain-comunity
 faiss-cpu
 python-dotenv
