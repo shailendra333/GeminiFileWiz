@@ -4,7 +4,7 @@ Welcome to **GeminiFileWiz**! This is a file summarization and question-answerin
 
 ## Web UI
 
-![Web UI](images/Screenshot%202024-11-11%20133917.png)
+![Web UI](images/Screenshot%202024-11-11%20154142.png)
 
 ## Features
 
