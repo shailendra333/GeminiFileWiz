@@ -30,29 +30,23 @@ Before running the project, make sure you have the following installed:
 ### Clone the repository
 To get started, first clone the repository:
 
-```bash
+
 git clone https://github.com/DadvaiahPavan/GeminiFileWiz.git
 cd GeminiFileWiz
 Set up a virtual environment
 It is recommended to create a virtual environment for the project:
 
-bash
-Copy code
+
 python -m venv venv
 Activate the virtual environment
 For Windows:
-bash
-Copy code
 venv\Scripts\activate
 For macOS/Linux:
-bash
-Copy code
 source venv/bin/activate
 Install the required dependencies
 Once the virtual environment is activated, install the dependencies using the following command:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Setup Google Gemini API
 Obtain your Google Gemini API key from the Google Cloud Console.
@@ -63,8 +57,7 @@ GOOGLE_API_KEY=your_api_key_here
 Running the App Locally
 Once the setup is complete, you can run the application locally with the following command:
 
-bash
-Copy code
+
 streamlit run app.py
 This command will launch the app in your default web browser. You can now interact with the uploaded documents and ask questions based on the content.
 
