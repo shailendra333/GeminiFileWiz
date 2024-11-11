@@ -29,19 +29,13 @@ Welcome to **GeminiFileWiz**! This is a file summarization and question-answerin
 git clone https://github.com/DadvaiahPavan/GeminiFileWiz.git
 ```
 
-2. Change to the project directory:
-
-```bash
-cd GeminiFileWiz
-```
-
-3. Create a virtual environment:
+2. Create a virtual environment:
 
 ```bash
 python -m venv venv
 ```
 
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 
 - For Windows:
 
@@ -55,13 +49,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-5. Install the required dependencies:
+4. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-6. Set  Google Gemini API:
+5. Set  Google Gemini API:
 - Obtain your Google Gemini API key from the Google Cloud Console.
 - Create a .env file in the root directory of the project and add your API key as follows:
 
@@ -69,14 +63,14 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_api_key_here
 ```
 
-7. Start the application:
+6. Start the application:
 
 ```bash
 streamlit run app.py
 
 ```
 
-8. Open your web browser and visit `http://localhost:5000` to access the Application.
+7. Open your web browser and visit `http://localhost:5000` to access the Application.
 
 ## Supported File Formats
 
